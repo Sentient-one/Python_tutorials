@@ -1,4 +1,3 @@
-"""Write a python program to compute nCr using a factorial function."""
 
 
 def factorial(n):

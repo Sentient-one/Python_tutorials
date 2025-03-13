@@ -1,4 +1,3 @@
-# Write a program to remove characters at odd index positions from a string
 
 
 s= input("Enter the string : ")
